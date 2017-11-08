@@ -1,7 +1,7 @@
 {
   "name": "seti-bloody-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax theme extends from seti-syntax but more vivid.",
   "keywords": [
     "syntax",
