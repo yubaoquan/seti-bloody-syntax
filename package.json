@@ -1,0 +1,15 @@
+{
+  "name": "seti-bloody-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme extends from seti-syntax but more vivid.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/seti-bloody-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
