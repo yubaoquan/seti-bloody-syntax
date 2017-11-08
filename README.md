@@ -6,6 +6,10 @@ Long time reading code with this syntax theme, may easily make your eyes tired.
 
 ![demo](https://raw.githubusercontent.com/yubaoquan/yubaoquan.github.io/master/images/seti-bloody-syntax/seti-bloody-syntax.png)
 
+### change logs
+
+- 0.1.0 init
+
 ### TODO
 
 1. refactor coffee to js
