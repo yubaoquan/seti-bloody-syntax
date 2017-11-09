@@ -280,7 +280,8 @@ atom-text-editor[mini], atom-text-editor.mini {
     }
 
     &.syntax--string {
-      color: @punctuation-definition-string;
+        background-color: transparent;
+      color: @quotes;
       &.syntax--begin, &.syntax--end {
         color: @quotes;
       }
@@ -309,7 +310,7 @@ atom-text-editor[mini], atom-text-editor.mini {
 
 // STRINGS
 .syntax--string {
-  color: @string;
+  color: @quotes;
 
   .syntax--constant {
     color: @constant;

@@ -6,3 +6,6 @@ init
 ## 0.2.0
 1. refactor coffee to js
 2. Darken comment color
+
+## 0.2.1
+1. 0.2.1 Darken color of string in back quotes
