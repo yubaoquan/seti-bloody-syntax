@@ -14,4 +14,7 @@ Long time reading code with this syntax theme, may easily make your eyes tired.
     2. Darken string color
 - 0.2.1 Darken color of string in back quotes
 
+- 0.2.2
+1. Fix: `syntax--separator` has the same value of `color` and `background-color`, remove its background color
+
 ### TODO
